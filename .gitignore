@@ -1,0 +1,14 @@
+# Initially taken from Github's Python gitignore file
+
+# Demo
+/data/*
+/eval/*
+/output/*
+/server_infer/*
+/pytorch_pretrained_bert/__pycache__
+/pytorch_pretrained_bert/.DS_Store
+/onmt/__pycache__
+/onmt/.DS_Store
+/.DS_Store
+/.vscode
+/uncased_L-12_H-768_A-12/*

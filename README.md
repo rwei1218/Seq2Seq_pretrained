@@ -41,3 +41,6 @@ cd RELEASE-1.5.5
 cd ..
 cd ..
 ```
+
+## TODO LIST
+- [ ] Update the encoder with the new **transformers**.

@@ -9,6 +9,8 @@ Decoder: borrow some code from the [ONMT](https://github.com/OpenNMT/OpenNMT-py)
 
 The core codes of this project are the class `Seq2Seq` and `BertForSequenceGeneration` in the `./pytorch_pretrained_bert/modeling.py`, which combine the BERT encoder and ONMT decoder.
 
+This project is the basic framework for the [paper](https://doi.org/10.1007/978-3-030-32381-3_14). 
+
 ## Get Started
 1. Download the pretrained BERT model 'uncased_L-12_H-768_A-12'.
 2. Download the [CNN & DM](https://github.com/harvardnlp/sent-summary) dataset and unzip to `./data`.
